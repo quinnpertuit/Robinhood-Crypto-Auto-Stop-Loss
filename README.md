@@ -25,4 +25,8 @@ I make no guarantees and will hold no responsibility for any uses of this script
 provided for educational purposes. The code is simple, though I suggest you review it and 
 any functions used before relying on it at your own risk. 
 
+Setup: you will need to install these two packages before using this script. 
+- devtools::install_github('jestonblu/RobinHood')
+- install.packages('tidyverse')
+
 ![Screenshot](image.png)
